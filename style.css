@@ -24,6 +24,7 @@ h1.titulo {
     text-transform: uppercase;
     color: green;
     font-weight: bold;
+    font-size: 45px;
 }
 
 h1.opcao:hover {
@@ -51,4 +52,9 @@ h1.botao:hover {
     color: white;
     scale: 1.1;
     transform:translateY(10px);
+}
+
+body {
+    background: beige;
+    text-align: center;
 }
