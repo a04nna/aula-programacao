@@ -52,3 +52,11 @@ h1.botao:hover {
     scale: 1.1;
     transform:translateY(10px);
 }
+
+h1.titulo:hover {
+    transform: translateY(0px);
+}
+
+body {
+    background: beige;
+}
